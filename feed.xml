@@ -1,0 +1,12 @@
+<? xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+<title></title>
+<description></description>
+<link>http://www.yourweb.com</link>
+<item>
+<title>*** Welcome to Veu-It, a new streaming app for streaming movies and TV shows and music from the internet to your TV. Newest version is v1.0.1.***</title>
+<description> Enjoy </description>
+<link>http://www.yourweb.com</link>
+</channel>
+</rss>
